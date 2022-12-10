@@ -1,30 +1,37 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b0ad0b1.chunk.css",
-    "main.js": "/static/js/main.2454d9a3.chunk.js",
-    "main.js.map": "/static/js/main.2454d9a3.chunk.js.map",
+    "main.css": "/static/css/main.02c07470.chunk.css",
+    "main.js": "/static/js/main.39d95052.chunk.js",
+    "main.js.map": "/static/js/main.39d95052.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0b13f7b4.js",
     "runtime-main.js.map": "/static/js/runtime-main.0b13f7b4.js.map",
-    "static/css/2.5682db75.chunk.css": "/static/css/2.5682db75.chunk.css",
-    "static/js/2.09f0244a.chunk.js": "/static/js/2.09f0244a.chunk.js",
-    "static/js/2.09f0244a.chunk.js.map": "/static/js/2.09f0244a.chunk.js.map",
+    "static/css/2.dede0b69.chunk.css": "/static/css/2.dede0b69.chunk.css",
+    "static/js/2.22a3000f.chunk.js": "/static/js/2.22a3000f.chunk.js",
+    "static/js/2.22a3000f.chunk.js.map": "/static/js/2.22a3000f.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.5682db75.chunk.css.map": "/static/css/2.5682db75.chunk.css.map",
-    "static/css/main.8b0ad0b1.chunk.css.map": "/static/css/main.8b0ad0b1.chunk.css.map",
-    "static/js/2.09f0244a.chunk.js.LICENSE.txt": "/static/js/2.09f0244a.chunk.js.LICENSE.txt",
+    "static/css/2.dede0b69.chunk.css.map": "/static/css/2.dede0b69.chunk.css.map",
+    "static/css/main.02c07470.chunk.css.map": "/static/css/main.02c07470.chunk.css.map",
+    "static/js/2.22a3000f.chunk.js.LICENSE.txt": "/static/js/2.22a3000f.chunk.js.LICENSE.txt",
     "static/media/Appstore.d0c58399.png": "/static/media/Appstore.d0c58399.png",
     "static/media/Home.css": "/static/media/HomepageImage.1d374b9d.jpg",
     "static/media/Profile.697fdcd2.png": "/static/media/Profile.697fdcd2.png",
+    "static/media/fashionsale.3071fadf.jpg": "/static/media/fashionsale.3071fadf.jpg",
+    "static/media/gadget-sale.ec893927.jpg": "/static/media/gadget-sale.ec893927.jpg",
     "static/media/homeleftImage.5105a929.PNG": "/static/media/homeleftImage.5105a929.PNG",
     "static/media/homerightImage.b06f440c.PNG": "/static/media/homerightImage.b06f440c.PNG",
+    "static/media/kitchen-sale.058c7dbd.jpg": "/static/media/kitchen-sale.058c7dbd.jpg",
     "static/media/logo.4ff9a1a6.png": "/static/media/logo.4ff9a1a6.png",
-    "static/media/playstore.82b48319.png": "/static/media/playstore.82b48319.png"
+    "static/media/oppo-reno7.dedadaeb.webp": "/static/media/oppo-reno7.dedadaeb.webp",
+    "static/media/playstore.82b48319.png": "/static/media/playstore.82b48319.png",
+    "static/media/poco-m4-pro.48599deb.webp": "/static/media/poco-m4-pro.48599deb.webp",
+    "static/media/realme-9-pro.5a99ab97.webp": "/static/media/realme-9-pro.5a99ab97.webp",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.0b13f7b4.js",
-    "static/css/2.5682db75.chunk.css",
-    "static/js/2.09f0244a.chunk.js",
-    "static/css/main.8b0ad0b1.chunk.css",
-    "static/js/main.2454d9a3.chunk.js"
+    "static/css/2.dede0b69.chunk.css",
+    "static/js/2.22a3000f.chunk.js",
+    "static/css/main.02c07470.chunk.css",
+    "static/js/main.39d95052.chunk.js"
   ]
 }
