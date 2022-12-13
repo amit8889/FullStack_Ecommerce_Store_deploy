@@ -39,11 +39,11 @@ const server = app.listen(process.env.PORT, () => {
 });
 
 // Unhandler Promise Rejection
-process.on("unhandledRejection", (err) => {
-  console.log("Error: " + err.message);
-  console.log("Shutting down the server due to unhandle Rejection");
+// process.on("unhandledRejection", (err) => {
+//   console.log("Error: " + err.message);
+//   console.log("Shutting down the server due to unhandle Rejection");
 
-  server.close(() => {
-    process.exit();
-  });
-});
+//   server.close(() => {
+//     process.exit();
+//   });
+// });
