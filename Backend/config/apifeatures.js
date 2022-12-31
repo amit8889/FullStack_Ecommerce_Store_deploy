@@ -5,7 +5,7 @@ class Apifeatures{
         this.queryStr=queryStr
     }
 
-    search(){
+    search(){ 
         const keyword=this.queryStr.keyword?{
             name:{
                 $regex:this.queryStr.keyword,
