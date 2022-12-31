@@ -59,7 +59,7 @@ const getAllProducts = async (req, res, next) => {
     
     const resultperpage = 10;
     const productCount = await Product.countDocuments();
-
+console.log(req.query);
     const apifeature = new Apifeatures(Product.find(), req.query)
       .search()
       .filter()
