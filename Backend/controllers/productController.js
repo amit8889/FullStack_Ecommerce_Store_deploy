@@ -56,8 +56,8 @@ const createProduct = async (req, res, next) => {
 //Get All Product
 const getAllProducts = async (req, res, next) => {
   try {
-
-    const resultperpage = 5;
+    
+    const resultperpage = 10;
     const productCount = await Product.countDocuments();
 
     const apifeature = new Apifeatures(Product.find(), req.query)
@@ -65,9 +65,11 @@ const getAllProducts = async (req, res, next) => {
       .filter()
       .pagination(resultperpage);
  
-    const products = await apifeature.query;
-    
+    let products = await apifeature.query;
+  
     res.status(200).json({ success: true, products, productCount, resultperpage });
+    
+    
   } catch (error) {
     res.status(200).json({
       success: false,
