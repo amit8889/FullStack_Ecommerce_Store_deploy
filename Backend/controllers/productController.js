@@ -66,7 +66,7 @@ const getAllProducts = async (req, res, next) => {
       .pagination(resultperpage);
  
     let products = await apifeature.query;
-  
+  console.log(products.length);
     res.status(200).json({ success: true, products, productCount, resultperpage });
     
     
